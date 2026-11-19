@@ -60,26 +60,6 @@ GNOME apps and more. On top of that, Carrera ships:
 - **Boot unlock screen**: the Omarchy wordmark in Guards Red, via **Style → Unlock** in the
   Omarchy menu.
 
-### Extras for your own copy
-
-Two files only apply when the theme is one you keep yourself, because Omarchy, by design,
-doesn't run Lua from themes installed with `omarchy theme install`:
-
-- `neovim.lua`: a developer-tuned syntax map. Keywords in Guards Red, functions in Gentian
-  Blue, types in Racing Yellow, strings in Python Green, numbers and constants in Lava Orange,
-  decorators in Cognac, builtins like `self` in Ruby Star; regular weight throughout, with a
-  red-tinted selection and undercurled diagnostics.
-- `hyprland.lua`: a faint red glow around the focused window, like brake lights on wet tarmac.
-
-To opt in, read both files, then make the installed copy your own and re-apply it:
-
-```bash
-rm -rf ~/.config/omarchy/themes/carrera/.git
-omarchy theme set carrera
-```
-
-That copy no longer updates with `omarchy theme install`; run the install again to go back.
-
 ## Credits
 
 The wallpapers were generated for this theme with OpenAI's image model (through Codex) and

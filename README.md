@@ -41,17 +41,17 @@ meets at least WCAG AA (4.5:1) on the Basalt canvas, with primary Chalk text sit
 
 ![Carrera wallpapers](docs/wallpapers.jpg)
 
-Six Heritage Cockpit night studies, all keyed to Basalt Alcantara, Chalk, and Carmine Red.
-Cycle them with `omarchy theme bg next`. Four ship with a 5-second intro that plays once when
-the theme or wallpaper is set, then settles on the still (turn intros off with
+Six 4K (`3840×2160`) Heritage Cockpit fine-art night studies, all keyed to Basalt Alcantara, Chalk,
+and Carmine Red. Cycle them with `omarchy theme bg next`. Four ship with a 5-second intro that plays
+once when the theme or wallpaper is set, then settles on the still (turn intros off with
 `omarchy theme bg intro disable`):
 
-1. **Flyline sculpt**: side profile emerging from velvet basalt under a warm Chalk light blade *(with intro)*
-2. **Heritage tachometer**: macro close-up of the five-dial central tach with Carmine Red needle *(with intro)*
-3. **Alpine blue hour**: rain-slicked mountain switchback at Aetna Blue twilight *(with intro)*
-4. **Brutalist atelier**: Chalk air-cooled 964 with Club Cognac interior in a board-formed concrete gallery *(with intro)*
-5. **Rain fender macro**: rain-beaded fluted glass headlamp and fender crest in night bokeh
-6. **Midnight hairpin**: elevated coastal S-bend traced by Carmine Red and Cognac Amber light ribbons
+1. **Flyline eclipse**: chiaroscuro side profile mirrored in still black water under a Chalk light blade *(with intro)*
+2. **Kyoto midnight rain**: Chalk air-cooled 964 in a rain-slicked charred-cedar alley with a single Cognac lantern *(with intro)*
+3. **Nordic fjord dusk**: volcanic sea cliffs, drifting mist, Aetna Blue twilight, and a single Carmine taillight ember *(with intro)*
+4. **Cockpit night rain**: driver's-eye Heritage five-dial cluster looking out through a rain-beaded windshield *(with intro)*
+5. **Dolomites last light**: sweeping alpine switchback beneath jagged spires catching the last ember of alpenglow
+6. **Kinetic alpine tunnel**: rolling-rig motion through curved board-formed concrete and warm Cognac light ribs
 
 ## What's themed
 

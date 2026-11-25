@@ -1,9 +1,11 @@
 # Carrera
 
-A dark [Omarchy](https://omarchy.org) theme inspired by the Porsche 911 on a night drive:
-a graphite dashboard, chalk-white dial numerals, and Guards Red for the rev needle and the
-full-width tail-light bar. Built for long coding sessions: calm contrast, colour that carries
-meaning, and nothing bold that doesn't need to be.
+A dark [Omarchy](https://omarchy.org) theme inspired by the Porsche 911 Heritage Cockpit on a night drive:
+Basalt Alcantara surfaces, warm Chalk (`Kreide`) dial numerals, brushed GT Silver trim, and a single
+disciplined spark of Carmine Red for the rev needle and smoked tail-light horizon.
+
+Built for 10+ hour daily coding sessions: perceptually uniform OKLCH syntax hues, glare-free contrast
+tuned to the APCA ergonomic band, and restrained chroma that eliminates red/blue chromostereopsis.
 
 ![Carrera on Omarchy](preview.png)
 
@@ -19,19 +21,21 @@ Or open the menu: **Style → Theme → Install**, and paste the URL.
 
 ![Carrera palette](docs/palette.png)
 
-Every colour is named after a 911 paint or cabin detail. All text colours reach at least
-4.5:1 contrast on the background (comments sit lower on purpose, at 3.7:1).
+Every colour is drawn from Porsche's Exclusive Manufaktur and Heritage Design palette, calibrated in
+OKLCH so no token jumps off the screen. Every readable text role — including comments and accents —
+meets at least WCAG AA (4.5:1) on the Basalt canvas, with primary Chalk text sitting at 11.9:1
+(APCA Lc -78) to avoid halation.
 
 | Role | Colour | Hex |
 |---|---|---|
-| Background | Graphite dashboard | `#111214` |
-| Text | Chalk | `#d9d5cc` |
-| Accent, focus, cursor | Guards Red | `#e8323c` |
-| Selection | Dash trim | `#2a2d33` |
-| Comments | Unlit gauge markings | `#6b6f78` |
-| red / orange / yellow | Guards Red, Lava Orange, Racing Yellow | `#e5484d` `#f2803a` `#f2c230` |
-| green / cyan / blue | Python Green, Miami Blue, Gentian Blue | `#93c25e` `#2fb5d6` `#6a97da` |
-| magenta / brown | Ruby Star, Cognac leather | `#d672a2` `#b07a4f` |
+| Background | Basalt Alcantara | `#15171a` |
+| Text | Chalk (`Kreide`) | `#d6d2c7` |
+| Accent, focus, cursor | Carmine Red | `#e1656c` |
+| Selection | Machined dash trim | `#2b2e35` |
+| Comments | Unlit gauge markings | `#838792` |
+| red / orange / yellow | Carmine Red, Cognac Amber, Satin Neodyme | `#e07476` `#e8965a` `#dcbb6a` |
+| green / cyan / blue | Oak Green Sage, Fjord Glacier, Aetna Blue | `#89b87f` `#6fc7cb` `#74a0d7` |
+| magenta / brown | Amethyst Metallic, Club Cognac | `#b886b8` `#ae7e62` |
 
 ## Wallpapers
 
@@ -54,11 +58,10 @@ From `colors.toml`, through Omarchy's own templates: terminals (Alacritty, Foot,
 Kitty), Neovim, VS Code, Helix, the Omarchy shell and bar, the lock screen, Chromium, tmux,
 GNOME apps and more. On top of that, Carrera ships:
 
-- **btop**: graphs that sweep like a tachometer, Python Green → Racing Yellow → Guards Red.
-- **Window borders**: a tail-light gradient on the focused window.
-- **Icons**: Yaru red.
-- **Boot unlock screen**: the Omarchy wordmark in Guards Red, via **Style → Unlock** in the
-  Omarchy menu.
+- **btop**: graphs that sweep like a tachometer, Oak Green Sage → Satin Neodyme → Carmine Red.
+- **Window borders**: a smoked Carmine tail-light gradient on the focused window that melts into dark graphite.
+- **Icons**: Yaru Wartybrown Dark (Cognac leather folders).
+- **Boot unlock screen**: the Omarchy wordmark in red, via **Style → Unlock** in the Omarchy menu.
 
 ## Credits
 

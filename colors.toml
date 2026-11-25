@@ -1,40 +1,41 @@
-# Carrera: a Porsche 911 night-drive palette.
-# Graphite dash, chalk-white dial numerals, and Guards Red for the
-# needle and the full-width tail-light bar. ANSI colours are factory paints.
+# Carrera: a Porsche 911 Heritage Cockpit palette for long daily sessions.
+# Basalt Alcantara surfaces, Chalk (Kreide) dial numerals, GT Silver trim,
+# and a single disciplined spark of Carmine Red for the needle and tail-light.
+# Semantic hues are calibrated in OKLCH for perceptual balance and low fatigue.
 mode = "dark"
 
-accent = "#e8323c"            # Guards Red: rev needle, focus, cursor
-cursor = "#e8323c"
-selection = "#2a2d33"         # dash trim
-selection_background = "#2a2d33"
-selection_foreground = "#f3f0e9"
-muted = "#6b6f78"             # unlit gauge markings
+accent = "#e1656c"            # Carmine Red: rev needle, focus, alerts (4.54:1 even on launcher row)
+cursor = "#e1656c"
+selection = "#2b2e35"         # machined dash trim
+selection_background = "#2b2e35"
+selection_foreground = "#eae6dc"
+muted = "#838792"             # unlit gauge markings (4.5:1 AA even on cursorline)
 
-background = "#111214"        # graphite dashboard at night
-dark_background = "#0c0d0e"
-darker_background = "#08090a"
-lighter_background = "#1b1d21"
+background = "#15171a"        # Basalt Alcantara dashboard
+dark_background = "#101215"   # recessed instrument well, floats
+darker_background = "#0b0c0e" # deep shadow
+lighter_background = "#1e2025" # elevated surface, cursor line
 
-foreground = "#d9d5cc"        # Chalk: warm white, easy on the eyes
-dark_foreground = "#7b7f87"   # GT Silver in shadow
-light_foreground = "#b8b5ad"
-bright_foreground = "#f3f0e9"
+foreground = "#d6d2c7"        # Chalk (Kreide): warm mineral off-white
+dark_foreground = "#9599a2"   # GT Silver in shadow
+light_foreground = "#b3afa6"  # brushed aluminum switchgear
+bright_foreground = "#eae6dc" # Chalk highlight (glare-free)
 
-hyprland_active_border = "rgba(e8323cee) rgba(8f0f18ee) 90deg"
-hyprland_inactive_border = "rgba(2a2d33cc)"
+hyprland_active_border = "rgba(e1656ccc) rgba(3a2429cc) 135deg"
+hyprland_inactive_border = "rgba(262930aa)"
 
-red = "#e5484d"               # Guards Red (text-weight)
-orange = "#f2803a"            # Lava Orange
-yellow = "#f2c230"            # Racing Yellow
-green = "#93c25e"             # Python Green
-cyan = "#2fb5d6"              # Miami Blue
-blue = "#6a97da"              # Gentian Blue
-magenta = "#d672a2"           # Ruby Star
-brown = "#b07a4f"             # Cognac leather
+red = "#e07476"               # Carmine Red (text-weight)
+orange = "#e8965a"            # Cognac Amber (VDO gauge glow)
+yellow = "#dcbb6a"            # Satin Neodyme (champagne gold)
+green = "#89b87f"             # Oak Green Sage
+cyan = "#6fc7cb"              # Fjord Glacier
+blue = "#74a0d7"              # Aetna Blue
+magenta = "#b886b8"           # Amethyst Metallic
+brown = "#ae7e62"             # Club Cognac leather
 
-bright_red = "#ff6e6a"
-bright_yellow = "#ffd866"
-bright_green = "#b0d983"
-bright_cyan = "#6fd3ec"
-bright_blue = "#93b6ec"
-bright_magenta = "#eb9cc2"
+bright_red = "#f28a8b"        # Carmine Glow
+bright_yellow = "#edcf86"     # Weissgold
+bright_green = "#a1ce97"      # Oak Green Light
+bright_cyan = "#87d9dd"       # Glacier Light
+bright_blue = "#8eb9f0"       # Aetna Light
+bright_magenta = "#d09fd1"    # Amethyst Light

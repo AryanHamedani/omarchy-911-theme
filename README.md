@@ -43,17 +43,18 @@ text sitting at 12.9:1 to avoid halation.
 
 ![911 wallpapers](docs/wallpapers.jpg)
 
-Six 4K (`3840×2160`) modern 911 (`992` / `992.2`) night and studio studies, all keyed to Race-Tex Charcoal,
-Vanadium Grey, Ice Grey, and Carmine Red. Cycle them with `omarchy theme bg next`. Four ship with a 5-second
-intro that plays once when the theme or wallpaper is set, then settles on the still (turn intros off with
-`omarchy theme bg intro disable`):
+Six `2560×1440` plate-free Porsche 911 (`992` / `992.2`) Precision Night Cockpit studies, mastered in 16-bit
+with fine micro-grain dithering so shadows never band, and keyed to Race-Tex Charcoal (`#141619`), Ice Grey
+(`#dadad6`), and 911 Guards/Carmine Red (`#e55c5a`). Cycle them with `omarchy theme bg next`. Four ship with
+a 5-second intro that plays once when the theme or wallpaper is set, then settles on the still (turn intros
+off with `omarchy theme bg intro disable`):
 
-1. **Flyline eclipse**: chiaroscuro 992 side profile mirrored in still black glass under an Ice Grey light blade *(with intro)*
-2. **GTS Vanadium studio**: `992.2` 911 Carrera GTS in Vanadium Grey Metallic showcasing vertical active aero flaps and 4-point HD Matrix LEDs *(with intro)*
-3. **Nordic fjord dusk**: volcanic sea cliffs, drifting mist, Lugano Blue twilight, and a full-width Carmine lightbar *(with intro)*
-4. **GTS lightbar study**: `992.2` 911 Carrera GTS rear three-quarter close-up highlighting the sculpted full-width Carmine LED bar and twin central exhausts *(with intro)*
-5. **Dolomites last light**: sweeping alpine switchback beneath jagged spires catching the last ember of alpenglow
-6. **Kinetic alpine tunnel**: rolling-rig motion through curved board-formed concrete and warm Lava Orange light ribs
+1. **Flyline monolith**: Vanadium Grey `992.2` Carrera GTS pure side profile over mirror-still obsidian under an Ice Grey light blade *(with intro)*
+2. **GTS rain pavilion**: plate-free `992.2` Carrera GTS with vertical active cooling slats and 4-point HD Matrix LEDs on rain-slicked basalt before dark board-formed concrete *(with intro)*
+3. **Nordic fjord dusk**: dark basalt `992` on wet volcanic sea cliffs at deep Lugano Blue twilight *(with intro)*
+4. **992.2 digital cockpit**: driver's-eye curved five-tube digital cluster behind a Race-Tex wheel looking out into misty midnight rain *(with intro)*
+5. **GTS alpine twilight**: Vanadium Grey `992.2` Carrera GTS with center dual exhausts carving a wet Dolomites hairpin at last light
+6. **Kinetic alpine tunnel**: rolling-rig `992` sweeping through curved dark concrete and warm Lava Orange light ribs
 
 ## What's themed
 
@@ -68,9 +69,9 @@ GNOME apps and more. On top of that, **911** ships:
 
 ## Credits
 
-The `992.2` studio wallpapers are graded and mastered to 4K (`3840×2160`) from official Porsche Newsroom
-press photography; the nocturnal driving studies were art-directed and generated from real Porsche 911
-reference photography using Higgsfield (`Seedream 5.0 Flash`) and Antigravity, then graded and mastered to 4K.
+All six wallpapers were art-directed and generated from real Porsche 911 (`992` / `992.2`) reference
+photography using Higgsfield (`Seedream 5.0 Flash`) and Antigravity, then graded and mastered in 16-bit
+to `2560×1440` with fine micro-grain dithering.
 
 Not affiliated with or endorsed by Porsche AG. Porsche and 911 are trademarks of Porsche AG.
 

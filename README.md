@@ -67,6 +67,15 @@ GNOME apps and more. On top of that, **911** ships:
 - **Icons**: Yaru Red Dark (matching the 911 brake calipers and rear lightbar).
 - **Boot unlock screen**: the Omarchy wordmark in 911 Guards/Carmine Red, via **Style → Unlock** in the Omarchy menu.
 
+## 36-App Companion Suite
+
+Looking for standalone **911 (`992.2`)** themes for tools beyond Omarchy's built-in templates? See [**`AryanHamedani/911-themes`**](https://github.com/AryanHamedani/911-themes) — 36 deeply crafted, WCAG AA verified ports built directly from this repository's `colors.toml`:
+
+- **Editors & Notes:** Neovim (LazyVim + full plugin suite), VS Code / Antigravity IDE, Obsidian
+- **Browsers & Desktop:** Zen Browser, Telegram Desktop (617 keys + flyline wallpaper), Chromium, GTK 3/4, Hyprland, Share Picker, Fcitx5, imv, mpv
+- **Terminals & Shells:** Foot, Ghostty, Alacritty, Kitty, Herdr, tmux, Starship, Atuin, fzf, zsh-syntax-highlighting
+- **CLI & TUI Tools:** K9s, kubecolor, Lazygit, Lazydocker, Delta, bat, eza, pgcli, OpenCode, Claude Code, Pi, Cliamp, Fastfetch, btop
+
 ## Credits
 
 All six wallpapers were art-directed and generated from real Porsche 911 (`992` / `992.2`) reference

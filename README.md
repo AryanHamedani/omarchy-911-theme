@@ -66,9 +66,8 @@ GNOME apps and more. On top of that, Carrera ships:
 
 ## Credits
 
-The wallpapers were generated for this theme with OpenAI's image model (through Codex) and
-Google's image model (through Antigravity) from a single art-direction brief, then graded and
-upscaled to 2560×1440.
+The wallpapers were art-directed and generated from real Porsche 911 reference photography using
+Higgsfield (`Seedream 5.0 Flash`) and Antigravity, then graded and mastered to 4K (`3840×2160`).
 
 Not affiliated with or endorsed by Porsche AG. Porsche, 911 and Carrera are trademarks of
 Porsche AG.

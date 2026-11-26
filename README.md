@@ -31,7 +31,8 @@ text sitting at 12.9:1 to avoid halation.
 | Background | Race-Tex Charcoal | `#141619` |
 | Elevated surface | Vanadium Grey | `#1d2026` |
 | Text | Ice Grey (`Crayon`) | `#dadad6` |
-| Accent, focus, cursor | Guards / Carmine Red | `#e55c5a` |
+| Bright text, cursor | Pure dial highlight | `#edede9` |
+| Accent, focus | Guards / Carmine Red | `#e55c5a` |
 | Selection | Slate Grey Neo trim | `#292d36` |
 | Comments | Unlit dial markings | `#858a96` |
 | red / orange / yellow | Carmine Red, Lava Orange, PCCB Racing Gold | `#e56c6a` `#e89158` `#e0be66` |

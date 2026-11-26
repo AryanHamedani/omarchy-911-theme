@@ -5,7 +5,6 @@
 mode = "dark"
 
 accent = "#e55c5a"            # 911 Guards/Carmine Red: lightbar, redline, focus (5.19:1 on bg, 4.67:1 on elev)
-cursor = "#e55c5a"
 selection = "#292d36"         # Slate Grey Neo dash trim
 selection_background = "#292d36"
 selection_foreground = "#edede9"

@@ -1,41 +1,41 @@
-# Carrera: a Porsche 911 Heritage Cockpit palette for long daily sessions.
-# Basalt Alcantara surfaces, Chalk (Kreide) dial numerals, GT Silver trim,
-# and a single disciplined spark of Carmine Red for the needle and tail-light.
-# Semantic hues are calibrated in OKLCH for perceptual balance and low fatigue.
+# 911: a Porsche 911 (992.2) Precision Night Cockpit palette for long daily sessions.
+# Race-Tex Charcoal surfaces, Ice Grey (Crayon) dial typography, Vanadium Grey trim,
+# and a single disciplined spark of 911 Guards/Carmine Red for the lightbar and redline.
+# Semantic hues are calibrated in OKLCH for perceptual uniformity and low visual fatigue.
 mode = "dark"
 
-accent = "#e1656c"            # Carmine Red: rev needle, focus, alerts (4.54:1 even on launcher row)
-cursor = "#e1656c"
-selection = "#2b2e35"         # machined dash trim
-selection_background = "#2b2e35"
-selection_foreground = "#eae6dc"
-muted = "#838792"             # unlit gauge markings (4.5:1 AA even on cursorline)
+accent = "#e55c5a"            # 911 Guards/Carmine Red: lightbar, redline, focus (5.19:1 on bg, 4.67:1 on elev)
+cursor = "#e55c5a"
+selection = "#292d36"         # Slate Grey Neo dash trim
+selection_background = "#292d36"
+selection_foreground = "#edede9"
+muted = "#858a96"             # unlit gauge markings (5.24:1 on bg, 4.72:1 on cursorline)
 
-background = "#15171a"        # Basalt Alcantara dashboard
-dark_background = "#101215"   # recessed instrument well, floats
-darker_background = "#0b0c0e" # deep shadow
-lighter_background = "#1e2025" # elevated surface, cursor line
+background = "#141619"        # Race-Tex Charcoal cockpit
+dark_background = "#0f1114"   # recessed carbon well, floats
+darker_background = "#0a0b0d" # deep diffuser shadow
+lighter_background = "#1d2026" # Vanadium Grey elevated surface, cursor line
 
-foreground = "#d6d2c7"        # Chalk (Kreide): warm mineral off-white
-dark_foreground = "#9599a2"   # GT Silver in shadow
-light_foreground = "#b3afa6"  # brushed aluminum switchgear
-bright_foreground = "#eae6dc" # Chalk highlight (glare-free)
+foreground = "#dadad6"        # Ice Grey (Crayon): crisp mineral off-white (12.93:1, glare-free)
+dark_foreground = "#9297a2"   # GT Silver in shadow
+light_foreground = "#b4b7be"  # brushed dark silver switchgear
+bright_foreground = "#edede9" # Pure dial highlight (glare-free)
 
-hyprland_active_border = "rgba(e1656ccc) rgba(3a2429cc) 135deg"
-hyprland_inactive_border = "rgba(262930aa)"
+hyprland_active_border = "rgba(e55c5acc) rgba(332024cc) 135deg"
+hyprland_inactive_border = "rgba(252932aa)"
 
-red = "#e07476"               # Carmine Red (text-weight)
-orange = "#e8965a"            # Cognac Amber (VDO gauge glow)
-yellow = "#dcbb6a"            # Satin Neodyme (champagne gold)
-green = "#89b87f"             # Oak Green Sage
-cyan = "#6fc7cb"              # Fjord Glacier
-blue = "#74a0d7"              # Aetna Blue
-magenta = "#b886b8"           # Amethyst Metallic
-brown = "#ae7e62"             # Club Cognac leather
+red = "#e56c6a"               # 911 Carmine Red (text-weight)
+orange = "#e89158"            # Lava Orange
+yellow = "#e0be66"            # PCCB Racing Gold / Satin Neodyme
+green = "#7fb887"             # Oak Green Metallic Neo
+cyan = "#6ac4cb"              # Ice Glacier Cyan (HD Matrix / digital cluster)
+blue = "#6fa2de"              # Lugano Blue
+magenta = "#b488cc"           # Ultraviolet / PTS Amethyst
+brown = "#ad7f66"             # Truffle Club Leather
 
-bright_red = "#f28a8b"        # Carmine Glow
-bright_yellow = "#edcf86"     # Weissgold
-bright_green = "#a1ce97"      # Oak Green Light
-bright_cyan = "#87d9dd"       # Glacier Light
-bright_blue = "#8eb9f0"       # Aetna Light
-bright_magenta = "#d09fd1"    # Amethyst Light
+bright_red = "#f48583"        # Carmine Glow
+bright_yellow = "#f0d282"     # Weissgold
+bright_green = "#98ce9f"      # Oak Green Light
+bright_cyan = "#84d8de"       # Glacier Light
+bright_blue = "#8cb9f2"       # Lugano Light
+bright_magenta = "#caa2e0"    # Ultraviolet Light
